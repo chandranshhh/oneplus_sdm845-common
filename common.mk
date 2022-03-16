@@ -281,10 +281,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.keymaster@4.1.vendor
 
-# LiveDisplay
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service.oneplus_sdm845
-
 # Media
 PRODUCT_PACKAGES += \
     libavservices_minijail \
